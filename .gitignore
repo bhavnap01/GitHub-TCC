@@ -1,0 +1,4 @@
+sam.properties
+*.properties
+demo.tmp
+private/
